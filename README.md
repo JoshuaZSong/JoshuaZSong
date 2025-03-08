@@ -1,10 +1,10 @@
 ## My name is Joshua Song 🐱‍👤
 
 - 👋 Hi, I’m @JoshuaZSong
-- 👀 I’m interested in Software developing | Artificial Intelligence | Data analysis
+- 👀 I’m interested in full stack developing | Cloud | Machine Learning 
 - 🌱 I’m currently learning Springboots
 - 🏫 I'm Studying at Univeristy of London in Computer Science - Artificial Intelligence Major
-- 💞️ I’m looking to collaborate on Java Web developing
+- 💞️ I’m looking to collaborate on full stack developer
 - 📫 Reach me at joshuasong94@gmail.com
 
 
